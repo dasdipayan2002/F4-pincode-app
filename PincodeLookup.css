@@ -1,0 +1,30 @@
+.pincode-lookup {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  input {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .results {
+    margin-top: 20px;
+  }
+  
+  .post-office {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
